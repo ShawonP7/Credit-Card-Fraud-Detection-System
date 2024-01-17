@@ -47,7 +47,8 @@ Implemented regular updates to the fraud detection algorithms based on emerging 
 Conducted periodic security audits to ensure the system's resilience against evolving threats.
 
 
-### Advantages of the Waterfall Model in this Project:
+
+## Advantages of the Waterfall Model in this Project:
 
 **Regulatory Compliance:**  The sequential nature of the Waterfall Model facilitated the adherence to regulatory guidelines and standards from the early stages of development.
 
@@ -55,11 +56,15 @@ Conducted periodic security audits to ensure the system's resilience against evo
 
 **Systematic Approach:** The structured approach allowed for a systematic development process, ensuring that each phase is completed before moving on to the next.
 
-### Disadvantages:
+
+
+## Disadvantages:
 
 **Limited Flexibility:** Changes in requirements or emerging fraud patterns were challenging to accommodate once the design and implementation phases were completed.
 
 **Late User Feedback:** User feedback was primarily sought during the testing phase, potentially leading to late-stage modifications and increased costs.
+
+
 
 ### Conclusion:
 The **Credit Card Fraud Detection System**, developed using the **Waterfall Model**, successfully provides a robust solution for identifying and preventing fraudulent credit card transactions. The systematic approach ensured that the system met regulatory standards and provided a reliable defense against evolving fraud threats. While the **Waterfall Model** has its limitations, its application in this project demonstrated its effectiveness in delivering a secure and well-documented fraud detection system.
