@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-The Credit Card Fraud Detection Project aims to develop a robust and efficient system to identify and prevent fraudulent activities associated with credit card transactions. The project follows the **Waterfall Model** in the Software Development Life Cycle (**SDLC**) to ensure a systematic and structured approach.
+The **Credit Card Fraud Detection** Project aims to develop a robust and efficient system to identify and prevent fraudulent activities associated with credit card transactions. The project follows the **Waterfall Model** in the Software Development Life Cycle (**SDLC**) to ensure a systematic and structured approach.
 
 ![Alt](https://cdn.technologyadvice.com/wp-content/uploads/2020/09/AdobeStock_281742235.jpeg)
 
