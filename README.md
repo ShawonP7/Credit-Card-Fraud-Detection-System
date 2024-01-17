@@ -30,7 +30,7 @@ Conducted unit testing for individual modules to ensure their functionality and 
 
 Integrated the system and conducted comprehensive testing to identify and rectify any inconsistencies or defects.
 Performed stress testing to assess the system's performance under high transaction loads.
-Engaged in user acceptance testing (UAT) with financial institutions and regulatory bodies to ensure compliance.
+Engaged in user acceptance testing (**UAT**) with financial institutions and regulatory bodies to ensure compliance.
 
 
 ### 5. Deployment:
@@ -62,4 +62,4 @@ Conducted periodic security audits to ensure the system's resilience against evo
 **Late User Feedback:** User feedback was primarily sought during the testing phase, potentially leading to late-stage modifications and increased costs.
 
 ### Conclusion:
-The Credit Card Fraud Detection System, developed using the Waterfall Model, successfully provides a robust solution for identifying and preventing fraudulent credit card transactions. The systematic approach ensured that the system met regulatory standards and provided a reliable defense against evolving fraud threats. While the Waterfall Model has its limitations, its application in this project demonstrated its effectiveness in delivering a secure and well-documented fraud detection system.
+The **Credit Card Fraud Detection System**, developed using the **Waterfall Model**, successfully provides a robust solution for identifying and preventing fraudulent credit card transactions. The systematic approach ensured that the system met regulatory standards and provided a reliable defense against evolving fraud threats. While the **Waterfall Model** has its limitations, its application in this project demonstrated its effectiveness in delivering a secure and well-documented fraud detection system.
