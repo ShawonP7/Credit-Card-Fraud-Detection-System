@@ -73,7 +73,8 @@ The **Credit Card Fraud Detection System**, developed using the **Waterfall Mode
 # Submitted By:
 ##### Name: Md. Abu Sufian  
 Id: 2002006  
-Course title: Software Engineering  
+Level-03, Semester-I  
+Course Title: Software Engineering  
 Course code: CSE305  
 
 # Submitted to:
